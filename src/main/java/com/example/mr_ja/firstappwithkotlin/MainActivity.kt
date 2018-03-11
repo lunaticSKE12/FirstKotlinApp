@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity() {
     public fun saveButtonClicked(view: View){
 //        val textView: TextView = findViewById(R.id.text_view)
 //        textView.text = "Good bye my frined"
-
 //        textView.text = "Good bye my frined"
 
         val msg = itemEditText.text.toString()
